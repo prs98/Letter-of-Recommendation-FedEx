@@ -26,9 +26,9 @@ To conclude, I would like to reiterate my strong recommendation for Prasanna Kum
 you have any further questions regarding Prasanna’s ability or this recommendation, please do not
 hesitate to reach out to the contact information provided below.
 
-Sincerely,
-Bradley Mollman
-Project Engineer III
-Fedex Supply Chain
-Bradley.mollman@fedex.com
-(912)-312-4292
+Sincerely,<br>
+Bradley Mollman<br>
+Project Engineer III<br>
+Fedex Supply Chain<br>
+Bradley.mollman@fedex.com<br>
+(912)-312-4292<br>
