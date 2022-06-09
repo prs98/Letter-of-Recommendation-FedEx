@@ -1,5 +1,4 @@
-# Letter-of-Recommendation-FedEx
-Letter of Recommendation
+# Letter of Recommendation from FedEx Supply Chain
 
 06/02/2022
 RE: Letter of Recommendation For Prasanna Kumar Reddy Sabbella <br>
